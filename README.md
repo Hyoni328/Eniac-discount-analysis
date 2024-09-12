@@ -1,7 +1,7 @@
 # Eniac Discount analysis
 
 ## Benefit Analysis of Product Discounts
-This project was run in July 2024 as part of the WBS CODING SCHOOL Data Analysis Bootcamp.
+This project was run in July 2024 as part of the WBS CODING SCHOOL Data Analytics Bootcamp.
 
 The goal is to analyse Eniac company data (Orders, Sales, Products, etc.) in order to determine if offering product discounts is advantageous. 
 
